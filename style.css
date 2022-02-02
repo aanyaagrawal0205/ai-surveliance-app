@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    background-color: lightcoral;
+    color: black;
+}
+#start
+{
+    font-size: 20px;
+    color: black;
+    background-color: lavender;
+}
+#status , #number_of_objects, #start
+{
+    font-size: 20px;
+}
+.copy_right_footer {
+    position:fixed;
+    color: darksalmon;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(223, 138, 11);
+    line-height: 3;
+    text-align: center;
+    font-size: 30px;
+}
+canvas{
+    border:2px dotted rgb(247, 240, 240);
+    border-radius: 10px;
+    margin-top:130px;
+    box-shadow: deepskyblue;
+}
